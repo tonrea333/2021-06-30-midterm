@@ -1,5 +1,7 @@
 # Term 1 Midterm
 
+<img src="motivation.gif"/>
+
 You'll have all day to work on the midterm. 
 
 Once you're done, submit it on CodeGrade, send a message to Mesi and Alex, then feel free to head out until tomorrow!
