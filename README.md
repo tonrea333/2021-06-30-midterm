@@ -1,4 +1,4 @@
-# Midterm
+# Term 1 Midterm
 
 You'll have all day to work on the midterm. 
 
