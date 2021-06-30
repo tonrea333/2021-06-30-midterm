@@ -1,0 +1,22 @@
+{
+  "name": "2021-06-30-midterm",
+  "version": "1.0.0",
+  "description": "You'll have all day to work on the midterm.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcrist/2021-06-30-midterm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcrist/2021-06-30-midterm/issues"
+  },
+  "homepage": "https://github.com/alexcrist/2021-06-30-midterm#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
