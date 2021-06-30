@@ -142,7 +142,7 @@ getCenturies([5, 63, 220, 501]);
 => ['1st', '1st', '3rd', '6th']
 ```
 
-### Extra credit: `gridSum`
+## Extra credit: `gridSum`
 
 Write a function, `gridSum`, that takes an array of arrays of numbers, a start
 row, a start column, an end row, and an end column. The function should return the sum of all the numbers in the given row range and column range (inclusive).
