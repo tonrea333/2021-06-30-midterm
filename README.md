@@ -9,7 +9,6 @@ Once you're done, submit it on CodeGrade, send a message to Mesi and Alex, then 
 ## Rules
 
 * No using the internet
-* No using regular expressions
 * Referring to notes and previous solutions is allowed
 
 ## Problems
